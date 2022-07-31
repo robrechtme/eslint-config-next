@@ -1,0 +1,31 @@
+{
+  "name": "@robrechtme/eslint-config-next",
+  "version": "0.1.0",
+  "description": "⚙ My personal ESLint config for Next.js",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robrechtme/eslint-config-next.git"
+  },
+  "keywords": [
+    "nextjs",
+    "eslint"
+  ],
+  "author": "robrechtme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robrechtme/eslint-config-next/issues"
+  },
+  "homepage": "https://github.com/robrechtme/eslint-config-next#readme",
+  "peerDependencies": {
+    "eslint": ">= 8"
+  },
+  "dependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-next": "^12.2.3",
+    "eslint-import-resolver-typescript": "^3.3.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1"
+  }
+}
